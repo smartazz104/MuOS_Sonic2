@@ -3,7 +3,7 @@ Sonic 2 theme for muOS
 
 Author: smartazz104
 
-Sonic 2 theme for muOS. Compatible with muOS 2410.3 AW BANANA
+Compatible with muOS 2410.3 AW BANANA
 
 Installation
 
